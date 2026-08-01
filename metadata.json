@@ -1,0 +1,6 @@
+{
+  "name": "Bangla AI Super App",
+  "description": "100 Powerful Free AI Tools in Bangla & English powered by Gemini API",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
